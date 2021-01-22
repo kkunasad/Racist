@@ -2,7 +2,7 @@
 Racist repository is to supplement the paper "Race bias of deep learning models in predicting criminals: Role of facial elements". This repository provides code used for experiments in the paper.
 
 # Overview of our Experiments
-<img src="https://user-images.githubusercontent.com/63252403/105454857-f1cd2c00-5cc5-11eb-93db-830c11eaf7a8.jpg"  width="1000" height="400">
+<img src="https://user-images.githubusercontent.com/63252403/105454857-f1cd2c00-5cc5-11eb-93db-830c11eaf7a8.jpg"  width="1000" height="350">
 
 
 - How it works
